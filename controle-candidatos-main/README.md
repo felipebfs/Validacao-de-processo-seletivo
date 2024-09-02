@@ -3,7 +3,7 @@
 <h2 align="center"> Simulando um pequeno sistema em JAVA para validação de processos seletivos </h2>
 
 ## Controle de Fluxo - Desafio - DIO
-- projeto para entregar
+- projeto para entregar 2° módulo
 ##
 
 | Desafio de código | Controle de Fluxo |
@@ -20,7 +20,7 @@ Estudo de Java.
 <br>
 
 #### Descrição
-Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
+Vamos exercitar todo o conteúdo apresentado no módulo de sintaxe básica codificando o seguinte cenário.
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
 
@@ -51,7 +51,7 @@ Desafio do curso Trilha Java Básico da DIO ministrado pelo instrutor Gleyson Sa
 
 Criei um novo projeto Java utilizando uma estrutura pré-criada pelo VScode.
 
-Organize a pasta (src)
+Organizei a pasta (src)
 
 ## Modelagem das Classes:
 
